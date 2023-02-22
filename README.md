@@ -9,7 +9,7 @@ I currently dedicate most of my time to startups in Web3. If you would like me t
 
 - crypto fund CTO
 - EVM compatible blockchain with zero fees and no mining founder
-- ex backend teamlead at [via.exchange](https://via.exchange)
+- ex backend teamlead at [via.exchange](https://via.exchange), senior mlops at [checklens](https://checklens.ai/ru/) and teamlead devops at [neatsy](https://neatsy.ai)
 
 ### 🧿 find me
 
