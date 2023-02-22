@@ -5,10 +5,10 @@
 
 I am a professional in machine learning, distributed systems, backend, devops, python, typescript, golang 🤖
 
-I currently dedicate most of my time to startups in Web3. If you would like me to help you with your team and product, please **contact me**. 🤓
+I currently dedicate most of my time to startups in Web3. If you would like me to help you with your team and product, please **contact me**.
 
 - crypto fund CTO
-- EVM-like blockchain with zero fees and no mining founder
+- EVM compatible blockchain with zero fees and no mining founder
 - ex backend teamlead at [via.exchange](https://via.exchange)
 
 ### 🧿 find me
